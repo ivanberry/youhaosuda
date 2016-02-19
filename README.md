@@ -31,7 +31,7 @@
 ![regular3G](./images/regular3G.gif)
 ![4G](./images/4G.gif)
 ![dsl](./images/dsl.gif)
-![WiFi](./images/wifi.gif)
-
+![Wifi](./images/wifi.gif)
+<iframe height= 300 width= 100% src="1.mp4" frameborder=0 allowfullscreen></iframe>
 
 
